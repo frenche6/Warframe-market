@@ -1,0 +1,8 @@
+{
+  "/v1": {
+    "target": "https://api.warframe.market",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
